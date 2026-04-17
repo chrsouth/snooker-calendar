@@ -22,7 +22,7 @@ jobs:
           python-version: "3.11"
 
       - name: Run generator
-        run: python generate.py
+        run: python regenerate.py
 
       - name: Commit updated ICS if changed
         run: |
