@@ -1,0 +1,912 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OpenAI//WST Fixtures Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:WST Upcoming Fixtures (World Championship 2026)
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:b213cf28dbd3fc0de8237b35fb4e6b3b@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260418T100000
+DTEND;TZID=Europe/London:20260418T133000
+SUMMARY:Zhao Xintong vs Liam Highfield — Round 1
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Round 1. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:25c6e67d14a14dd183079c05ecb5e2de@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260418T100000
+DTEND;TZID=Europe/London:20260418T133000
+SUMMARY:Mark Allen vs Zhang Anda — Round 1
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Round 1. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:9b1d1a03f22c3c89e6093289780afe47@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260418T143000
+DTEND;TZID=Europe/London:20260418T180000
+SUMMARY:Xiao Guodong vs Zhou Yuelong — Round 1
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Round 1. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e52b98b3d57d35f2d81f863bf6f2853c@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260418T143000
+DTEND;TZID=Europe/London:20260418T180000
+SUMMARY:Mark Williams vs Antoni Kowalski — Round 1
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Round 1. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1bf558bc1dc0aebcd4f2f843a3bc757b@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260418T190000
+DTEND;TZID=Europe/London:20260418T223000
+SUMMARY:Zhao Xintong vs Liam Highfield — Round 1
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Round 1. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f0d11b5eac0356587655cea83b5b1ea5@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260418T190000
+DTEND;TZID=Europe/London:20260418T223000
+SUMMARY:Barry Hawkins vs Matthew Stevens — Round 1
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Round 1. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8533eeb7e33aecc78b23596a42774456@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260419T100000
+DTEND;TZID=Europe/London:20260419T133000
+SUMMARY:Ding Junhui vs David Gilbert — Round 1
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Round 1. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f20d8f4c5ff3107087573c2ecac7d494@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260419T100000
+DTEND;TZID=Europe/London:20260419T133000
+SUMMARY:Mark Allen vs Zhang Anda — Round 1
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Round 1. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:dea654b1d1bfd5a5ff38f0768383ca0e@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260419T143000
+DTEND;TZID=Europe/London:20260419T180000
+SUMMARY:John Higgins vs Ali Carter — Round 1
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Round 1. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1fe408192c05d8954bbff0bff461053d@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260419T143000
+DTEND;TZID=Europe/London:20260419T180000
+SUMMARY:Barry Hawkins vs Matthew Stevens — Round 1
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Round 1. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:83a4aa3f8f89aa06127f62575c82cac7@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260419T190000
+DTEND;TZID=Europe/London:20260419T223000
+SUMMARY:Xiao Guodong vs Zhou Yuelong — Round 1
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Round 1. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4df5a177f3c18b7f41a388b92a04df3e@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260419T190000
+DTEND;TZID=Europe/London:20260419T223000
+SUMMARY:Mark Williams vs Antoni Kowalski — Round 1
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Round 1. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:334e35e791bed729104205a263414c7f@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260420T100000
+DTEND;TZID=Europe/London:20260420T133000
+SUMMARY:Ding Junhui vs David Gilbert — Round 1
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Round 1. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ddf6c8dc46f53ec73d9c1de7347af1ef@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260420T100000
+DTEND;TZID=Europe/London:20260420T133000
+SUMMARY:Kyren Wilson vs Stan Moody — Round 1
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Round 1. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fcba0e6e5f61c268701efdce96d018ee@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260420T143000
+DTEND;TZID=Europe/London:20260420T180000
+SUMMARY:John Higgins vs Ali Carter — Round 1
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Round 1. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bee5b66f35af27c4c1458391f174fa79@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260420T143000
+DTEND;TZID=Europe/London:20260420T180000
+SUMMARY:Wu Yize vs Lei Peifan — Round 1
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Round 1. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6c2ce4f7ef6a378e9c4a4927a0c4d0dc@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260420T190000
+DTEND;TZID=Europe/London:20260420T223000
+SUMMARY:Shaun Murphy vs Fan Zhengyi — Round 1
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Round 1. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:89abfdef11093512d5acb2000b310ab2@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260420T190000
+DTEND;TZID=Europe/London:20260420T223000
+SUMMARY:Kyren Wilson vs Stan Moody — Round 1
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Round 1. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:49ad7c9fbadf3452b3445ed41ddaeaf8@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260421T100000
+DTEND;TZID=Europe/London:20260421T133000
+SUMMARY:Chris Wakelin vs Liam Pullen — Round 1
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Round 1. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:500b2a6ba22284a77b860b612c0ac55e@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260421T100000
+DTEND;TZID=Europe/London:20260421T133000
+SUMMARY:Judd Trump vs Gary Wilson — Round 1
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Round 1. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:02b9fafc77f89bd2ef90aeeb2f4c923b@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260421T143000
+DTEND;TZID=Europe/London:20260421T180000
+SUMMARY:Ronnie O'Sullivan vs He Guoqiang — Round 1
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Round 1. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:cbe312d7c0a0b4d0324d7164f92f9720@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260421T143000
+DTEND;TZID=Europe/London:20260421T180000
+SUMMARY:Wu Yize vs Lei Peifan — Round 1
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Round 1. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:16acced33c09cfbc476d207d71cb0fbf@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260421T190000
+DTEND;TZID=Europe/London:20260421T223000
+SUMMARY:Shaun Murphy vs Fan Zhengyi — Round 1
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Round 1. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:29e094ef3817d1d40cee0f842ed0cad4@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260421T190000
+DTEND;TZID=Europe/London:20260421T223000
+SUMMARY:Judd Trump vs Gary Wilson — Round 1
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Round 1. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:aae83604daf27a642e326395f466a72d@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260422T100000
+DTEND;TZID=Europe/London:20260422T133000
+SUMMARY:Chris Wakelin vs Liam Pullen — Round 1
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Round 1. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:29de131c75b1559d992e4b16e2ff6612@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260422T100000
+DTEND;TZID=Europe/London:20260422T133000
+SUMMARY:Mark Selby vs Jak Jones — Round 1
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Round 1. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1c2a3d784b5b3588ed4d9435d9c8db1@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260422T143000
+DTEND;TZID=Europe/London:20260422T180000
+SUMMARY:Ronnie O'Sullivan vs He Guoqiang — Round 1
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Round 1. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:258b3e33ceefb2464e19e5b46f6a973d@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260422T143000
+DTEND;TZID=Europe/London:20260422T180000
+SUMMARY:Si Jiahui vs Hossein Vafaei — Round 1
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Round 1. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b18302afe058d1cb637a94e302819172@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260422T190000
+DTEND;TZID=Europe/London:20260422T223000
+SUMMARY:Neil Robertson vs Pang Junxu — Round 1
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Round 1. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:05af0e334a85047dfc240a5a9f476000@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260422T190000
+DTEND;TZID=Europe/London:20260422T223000
+SUMMARY:Mark Selby vs Jak Jones — Round 1
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Round 1. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a263dc5066246249a6cd277e1f735dfb@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260423T130000
+DTEND;TZID=Europe/London:20260423T163000
+SUMMARY:Si Jiahui vs Hossein Vafaei — Round 1
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Round 1. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7575e1327280f5fe43a567e35663f45a@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260423T130000
+DTEND;TZID=Europe/London:20260423T163000
+SUMMARY:Xiao Guodong / Zhou Yuelong vs Shaun Murphy / Fan Zhengyi — Last 16
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Last 16. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:17fbdb3d08a5d75cc1a89639bc830ea6@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260423T190000
+DTEND;TZID=Europe/London:20260423T223000
+SUMMARY:Neil Robertson vs Pang Junxu — Round 1
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Round 1. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:36dac62a11383df914fc1174f017c093@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260423T190000
+DTEND;TZID=Europe/London:20260423T223000
+SUMMARY:Kyren Wilson / Stan Moody vs Mark Allen / Zhang Anda — Last 16
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Last 16. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fe3a9ed4f153b7798e1489de46c8cad4@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260424T100000
+DTEND;TZID=Europe/London:20260424T133000
+SUMMARY:Xiao Guodong / Zhou Yuelong vs Shaun Murphy / Fan Zhengyi — Last 16
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Last 16. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:dd8239a2fa464ef1203ee9aa6c0b6e09@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260424T100000
+DTEND;TZID=Europe/London:20260424T133000
+SUMMARY:Barry Hawkins / Matthew Stevens vs Mark Williams / Antoni Kowalski — Last 16
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Last 16. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6dd7a2947fe9e227afebcba6ceeaa2b3@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260424T143000
+DTEND;TZID=Europe/London:20260424T180000
+SUMMARY:Zhao Xintong / Liam Highfield vs Ding Junhui / David Gilbert — Last 16
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Last 16. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bfa585d06f08d977a373d593385909ad@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260424T143000
+DTEND;TZID=Europe/London:20260424T180000
+SUMMARY:Kyren Wilson / Stan Moody vs Mark Allen / Zhang Anda — Last 16
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Last 16. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:9053d132d33710e688cf61b83673ee72@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260424T190000
+DTEND;TZID=Europe/London:20260424T223000
+SUMMARY:Xiao Guodong / Zhou Yuelong vs Shaun Murphy / Fan Zhengyi — Last 16
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Last 16. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:46c60f14994c93206797c06bfc3bd6be@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260424T190000
+DTEND;TZID=Europe/London:20260424T223000
+SUMMARY:Barry Hawkins / Matthew Stevens vs Mark Williams / Antoni Kowalski — Last 16
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Last 16. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:60052a10e4857cf417ea50ac677fd57c@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260425T100000
+DTEND;TZID=Europe/London:20260425T133000
+SUMMARY:Chris Wakelin / Liam Pullen vs Neil Robertson / Pang Junxu — Last 16
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Last 16. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8e0b04343bd96324a7bb27c406827b1e@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260425T100000
+DTEND;TZID=Europe/London:20260425T133000
+SUMMARY:Kyren Wilson / Stan Moody vs Mark Allen / Zhang Anda — Last 16
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Last 16. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d19f7f1d1a4fc8a1355cf3dd1b41ea9a@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260425T143000
+DTEND;TZID=Europe/London:20260425T180000
+SUMMARY:Zhao Xintong / Liam Highfield vs Ding Junhui / David Gilbert — Last 16
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Last 16. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bf78e1bdba60dd7ecfc537d05c56334f@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260425T143000
+DTEND;TZID=Europe/London:20260425T180000
+SUMMARY:Si Jiahui / Hossein Vafaei vs Judd Trump / Gary Wilson — Last 16
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Last 16. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eaf33e6a12f8d38f20e34293f2b2484b@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260425T190000
+DTEND;TZID=Europe/London:20260425T223000
+SUMMARY:John Higgins / Ali Carter vs Ronnie O'Sullivan / He Guoqiang — Last 16
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Last 16. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:440201f2f618517c42c24b81d9cecbfb@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260425T190000
+DTEND;TZID=Europe/London:20260425T223000
+SUMMARY:Barry Hawkins / Matthew Stevens vs Mark Williams / Antoni Kowalski — Last 16
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Last 16. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fd4fc7809a623d262ca4be1572304e9d@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260426T100000
+DTEND;TZID=Europe/London:20260426T133000
+SUMMARY:Zhao Xintong / Liam Highfield vs Ding Junhui / David Gilbert — Last 16
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Last 16. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:35d05c34544188e8a5ff73775724b88d@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260426T100000
+DTEND;TZID=Europe/London:20260426T133000
+SUMMARY:Mark Selby / Jak Jones vs Wu Yize / Lei Peifan — Last 16
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Last 16. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:42e78e55a418e8ab5859482a79d665cc@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260426T143000
+DTEND;TZID=Europe/London:20260426T180000
+SUMMARY:Chris Wakelin / Liam Pullen vs Neil Robertson / Pang Junxu — Last 16
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Last 16. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:dee8bb1e5ba52733e6d1a67571e0694e@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260426T143000
+DTEND;TZID=Europe/London:20260426T180000
+SUMMARY:Si Jiahui / Hossein Vafaei vs Judd Trump / Gary Wilson — Last 16
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Last 16. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:be4e8ca34b521de2d2d75f3324d481c0@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260426T190000
+DTEND;TZID=Europe/London:20260426T223000
+SUMMARY:John Higgins / Ali Carter vs Ronnie O'Sullivan / He Guoqiang — Last 16
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Last 16. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:599593f8cd7e277c488b3b72988356cc@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260426T190000
+DTEND;TZID=Europe/London:20260426T223000
+SUMMARY:Mark Selby / Jak Jones vs Wu Yize / Lei Peifan — Last 16
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Last 16. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:befd7b2f87e0c1e92a50878b6bcea4c8@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260427T100000
+DTEND;TZID=Europe/London:20260427T133000
+SUMMARY:TBD vs TBD — Last 16
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Last 16. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4f4fdc8dcf38d63627e72ff26d4a7574@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260427T100000
+DTEND;TZID=Europe/London:20260427T133000
+SUMMARY:TBD vs TBD — Last 16
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Last 16. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:dc333cb080a109519577cf6eae77900c@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260427T143000
+DTEND;TZID=Europe/London:20260427T180000
+SUMMARY:TBD vs TBD — Last 16
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Last 16. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:66a749cab8b6f2dc055eaf8873227164@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260427T143000
+DTEND;TZID=Europe/London:20260427T180000
+SUMMARY:TBD vs TBD — Last 16
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Last 16. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ca72f7bcd8f426f32f296cbb3581b5ec@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260427T190000
+DTEND;TZID=Europe/London:20260427T223000
+SUMMARY:TBD vs TBD — Last 16
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Last 16. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4e6694efe8a6a902b963fb56d9aa4482@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260427T190000
+DTEND;TZID=Europe/London:20260427T223000
+SUMMARY:TBD vs TBD — Last 16
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Last 16. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:49a206d622342fdafe7bc1895848e5cd@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260428T100000
+DTEND;TZID=Europe/London:20260428T133000
+SUMMARY:TBD vs TBD — Quarter-final
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Quarter-final. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1b7ef88087d04a5a143b7abc801b5205@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260428T100000
+DTEND;TZID=Europe/London:20260428T133000
+SUMMARY:TBD vs TBD — Quarter-final
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Quarter-final. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:86fb0ce443f88e859d9bf25a3eb042a8@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260428T143000
+DTEND;TZID=Europe/London:20260428T180000
+SUMMARY:TBD vs TBD — Quarter-final
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Quarter-final. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4c56c7b3b609c35aab245319d138875b@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260428T143000
+DTEND;TZID=Europe/London:20260428T180000
+SUMMARY:TBD vs TBD — Quarter-final
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Quarter-final. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6974b133e747dfc56bdd65d2d9d00821@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260428T190000
+DTEND;TZID=Europe/London:20260428T223000
+SUMMARY:TBD vs TBD — Quarter-final
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Quarter-final. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c030824b8ca1e247480abedafccb49be@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260428T190000
+DTEND;TZID=Europe/London:20260428T223000
+SUMMARY:TBD vs TBD — Quarter-final
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Quarter-final. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:65536a4d81a5d3c399f5a42ff87f05cd@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260429T100000
+DTEND;TZID=Europe/London:20260429T133000
+SUMMARY:TBD vs TBD — Quarter-final
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Quarter-final. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1e8000a15cc43744c0adfd35836c8739@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260429T100000
+DTEND;TZID=Europe/London:20260429T133000
+SUMMARY:TBD vs TBD — Quarter-final
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Quarter-final. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d17930c8fa07dfad8fcc2777abaedc67@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260429T143000
+DTEND;TZID=Europe/London:20260429T180000
+SUMMARY:TBD vs TBD — Quarter-final
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Quarter-final. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2738d24003937e7e84e7e8bac4121991@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260429T143000
+DTEND;TZID=Europe/London:20260429T180000
+SUMMARY:TBD vs TBD — Quarter-final
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Quarter-final. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1cdf3a8f233c4b15c939f9654f9a367c@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260429T190000
+DTEND;TZID=Europe/London:20260429T223000
+SUMMARY:TBD vs TBD — Quarter-final
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Quarter-final. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e52e19c5a4373ead61f6f13a2e5c071e@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260429T190000
+DTEND;TZID=Europe/London:20260429T223000
+SUMMARY:TBD vs TBD — Quarter-final
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Quarter-final. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ca750a06508fc716e97fe2850f592398@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260430T130000
+DTEND;TZID=Europe/London:20260430T163000
+SUMMARY:TBD vs TBD — Semi-final
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Semi-final. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:01d2775aee9056b3d5f623ea9108624e@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260430T190000
+DTEND;TZID=Europe/London:20260430T223000
+SUMMARY:TBD vs TBD — Semi-final
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Semi-final. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:63cf9b5e88af6d338b9dbf5fb245f05b@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260501T100000
+DTEND;TZID=Europe/London:20260501T133000
+SUMMARY:TBD vs TBD — Semi-final
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Semi-final. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2fbd2f360aab32ff09abe474de325293@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260501T143000
+DTEND;TZID=Europe/London:20260501T180000
+SUMMARY:TBD vs TBD — Semi-final
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Semi-final. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7113e1ce394314cd1005a267a5ba859c@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260501T190000
+DTEND;TZID=Europe/London:20260501T223000
+SUMMARY:TBD vs TBD — Semi-final
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Semi-final. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c021cf3c2e227fe76e3e31d0c9982ebd@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260502T100000
+DTEND;TZID=Europe/London:20260502T133000
+SUMMARY:TBD vs TBD — Semi-final
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Semi-final. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ae0d3ab630f8995e48a007a50bc418c9@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260502T143000
+DTEND;TZID=Europe/London:20260502T180000
+SUMMARY:TBD vs TBD — Semi-final
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Semi-final. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ece52e9c9a98e3830028e80820fcc364@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260502T190000
+DTEND;TZID=Europe/London:20260502T223000
+SUMMARY:TBD vs TBD — Semi-final
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Semi-final. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:5f7b74505e66a03d7553b497727b2b3e@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260503T130000
+DTEND;TZID=Europe/London:20260503T163000
+SUMMARY:TBD vs TBD — Final
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Final. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e8295a5a2870fd4aa81f73b3766545ec@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260503T190000
+DTEND;TZID=Europe/London:20260503T223000
+SUMMARY:TBD vs TBD — Final
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Final. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a10443ed42341fd28429626f5892e55c@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260504T130000
+DTEND;TZID=Europe/London:20260504T163000
+SUMMARY:TBD vs TBD — Final
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Final. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:20b2825e8aac4297e4d6ec7b83c24bad@openai.local
+DTSTAMP:20260417T110252Z
+DTSTART;TZID=Europe/London:20260504T190000
+DTEND;TZID=Europe/London:20260504T223000
+SUMMARY:TBD vs TBD — Final
+LOCATION:Crucible Theatre\, Sheffield\, England
+DESCRIPTION:Final. Generated from WST Upcoming Fixtures URL with schedule details cross-checked against current public order-of-play pages. Times are Europe/London.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
