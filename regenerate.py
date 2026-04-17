@@ -113,7 +113,7 @@ def build_ics() -> str:
         "PRODID:-//OpenAI//WST Fixtures Calendar//EN",
         "CALSCALE:GREGORIAN",
         "METHOD:PUBLISH",
-        "X-WR-CALNAME:WST Upcoming Fixtures (World Championship 2026)",
+        "X-WR-CALNAME:World Snooker Championship 2026",
         f"X-WR-TIMEZONE:{TZ}",
         "REFRESH-INTERVAL;VALUE=DURATION:PT12H",
         "X-PUBLISHED-TTL:PT12H",
