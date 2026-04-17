@@ -1,1 +1,1 @@
-# snooker_calender
+# snooker-calendar
